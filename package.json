@@ -1,10 +1,13 @@
 {
   "name": "fem-order-summary-component-main",
+  "homepage": "https://agusthas.github.io/FEM_order-summary-component-main",
   "version": "1.0.0",
   "main": "main.js",
   "author": "SusuMantan <suzumantan@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
