@@ -14,7 +14,7 @@
   --clr-white: hsl(0, 0%, 100%);
   --clr-black: hsl(0, 0%, 0%);
 
-  --ff-primary: "Red Hat Display", sans-serif;
+  --ff-primary: 'Red Hat Display', sans-serif;
 
   --radius: 1.125rem;
   --radius-sm: 0.625rem;
@@ -62,7 +62,7 @@ img {
 
 .container {
   background-color: var(--clr-pale-blue);
-  background-image: url("./public/pattern-background-mobile.svg");
+  background-image: url('./public/pattern-background-mobile.svg');
   background-repeat: no-repeat;
   max-width: 1440px;
   padding: 1.5rem;
@@ -123,9 +123,6 @@ img {
   margin-top: 1.5rem;
 }
 
-.plan-icon {
-}
-
 .plan-body {
   text-align: left;
 }
@@ -151,7 +148,7 @@ img {
 }
 
 .plan-link a::after {
-  content: "";
+  content: '';
   position: absolute;
   left: 0;
   right: 0;
@@ -211,7 +208,7 @@ img {
   }
 
   .container {
-    background-image: url("./public/pattern-background-desktop.svg");
+    background-image: url('./public/pattern-background-desktop.svg');
     margin: 0 auto;
   }
 
