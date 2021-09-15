@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/agusthas/FEM_order-summary-component-main.git](https://github.com/agusthas/FEM_order-summary-component-main.git)
-- Live Site URL: [https://agusthas.github.io/FEM_order-summary-component](https://agusthas.github.io/FEM_order-summary-component)
+- Live Site URL: [https://agusthas.github.io/FEM_order-summary-component](https://agusthas.github.io/FEM_order-summary-component-main)
 
 ## My process
 
